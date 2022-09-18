@@ -1,0 +1,5 @@
+rainfall (inches), avg wind speed (mph), wind direction, temperature (deg F), pressure (inHg), PV Voltage (V), PV Rated Voltage (V), PV Rated Current (A), Time
+11.92, 100, 20
+0.000, 0.000, 0.000, SSE, 75.89, 24.02, 2711.92, 100, 20,18:10:21
+0.000, 0.000, 0.000, SSE, 78.76, 29.74, 3111.92, 100, 20,18:10:24
+0.000, 0.000, 0.000, SSE, 78.77, 29.74, 3111.92, 100, 20,18:10:27
